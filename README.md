@@ -2,7 +2,7 @@
 
 
 
-I am the novice java backend developer, that really want to work with you. 
+I am java backend developer, that really want to work with you. 
 Took part in two hackatons. 
 Now developing auto-reports system for my university.
 
