@@ -40,6 +40,6 @@ Now developing auto-reports system for my university.
 
 ### 📊 Stats
 
-![Timofey's GitHub stats](https://github-readme-stats.vercel.app/api?username=sitiev&show_icons=true&theme=gruvbox)
+![Timofey's GitHub stats](https://github-readme-stats.vercel.app/api?username=tesinitsyn&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=Sitiev&theme=gruvbox&border_radius=4.5) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=tesinitsyn&theme=gruvbox&border_radius=4.5) -->
