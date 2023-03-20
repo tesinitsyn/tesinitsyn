@@ -5,7 +5,6 @@
 I am java backend developer, that really wants to work with you. 
 Took part in two hackatons. 
 Developed auto-report system for university(https://github.com/NarkoLo/BackendForReportgenerator).
-Now working with Telegram API to create bot (https://t.me/lookDownInThe_bot), which can send you some funny staff if you feel yourself blue :)
 
 ### 📞 Contacts
 
