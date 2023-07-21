@@ -2,9 +2,6 @@
 
 
 
-I am java backend developer, that really wants to work with you. 
-Took part in two hackatons. 
-Developed auto-report system for university(https://github.com/NarkoLo/BackendForReportgenerator).
 
 ### 📞 Contacts
 
