@@ -32,6 +32,8 @@
 
 ### 📊 Stats
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/tesinitsyn)
+
 ![Timofey's GitHub stats](https://github-readme-stats.vercel.app/api?username=tesinitsyn&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=tesinitsyn&theme=gruvbox&border_radius=4.5) -->
